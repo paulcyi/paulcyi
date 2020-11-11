@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **paulcyi/paulcyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://twitter.com/paulcharlesyi" target="_blank" rel="nofollow"><img align="right" alt="Paul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/paulcyi" target="_blank" rel="nofollow"><img align="right" alt="Paul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+Hello! My name is Paul and I'm currently learning iOS/web development in Boise, Idaho 💻
+
+---
+ 
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=paulcyi&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paulcyi&hide=css,java,html&theme=tokyonight">
+</p>
+
