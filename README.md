@@ -22,7 +22,7 @@ Hello! My name is Paul and I'm currently learning iOS/web development in Boise, 
 ---
  
 <br>
-<p align = "center">
+<p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=paulcyi&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paulcyi&hide=css,java,html&theme=tokyonight">
 </p>
