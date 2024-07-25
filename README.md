@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/paulcharlesyi" target="_blank" rel="nofollow"><img align="right" alt="Paul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/paulcyi" target="_blank" rel="nofollow"><img align="right" alt="Paul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-Hello! My name is Paul and I'm currently studying to become a developer in Boise, Idaho 💻
+Hello! My name is Paul and I'm currently studying to become a developer in Mineral, VA 💻
 
 ---
  
