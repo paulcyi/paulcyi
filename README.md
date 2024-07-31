@@ -15,15 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://twitter.com/paulcharlesyi" target="_blank" rel="nofollow"><img align="right" alt="Paul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/paulcyi" target="_blank" rel="nofollow"><img align="right" alt="Paul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://https://x.com/pyi_dev" target="_blank" rel="nofollow"><img align="right" alt="Paul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/paulcyi" target="_blank" rel="nofollow"><img align="right" alt="Paul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-Hello! My name is Paul and I'm currently studying to become a developer in Mineral, VA 💻
+# About Me
 
----
- 
-<br>
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=paulcyi&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paulcyi&hide=css,java,html&theme=tokyonight">
-</p>
+👋 Hi, I'm Paul Yi!
+
+I am an aspiring Full Stack Developer with a passion for creating scalable and efficient web applications. I am eager to learn and grow in the field of web development.
+
+## 🚀 Skills
+
+- **Programming Languages**: JavaScript, Python, Java, Swift
+- **Frameworks & Libraries**: React, Node.js, Spring Boot
+- **Tools & Platforms**: Git, Docker, AWS, Jenkins
+- **Databases**: MySQL, MongoDB
+
+## 🌱 Currently Learning
+
+I am currently exploring cloud computing with AWS and enhancing my skills in Kubernetes.
+
+## 📫 How to Reach Me
+
+- Email: [yipaulc@gmail.com](yipaulc@gmail.com)
+- LinkedIn: [Paul Yi](https://www.linkedin.com/in/paulcyi)
+- Twitter: [@pyi_dev](x.com/pyi_dev)
+
+## 🌟 Fun Facts
+
+- 🏔️ I enjoy playing with my son and taking family vacations in the outdoors. 
+- 📚 I love working out and reading books about technology and science fiction.
+- 🎖️ I'm passionate about the veteran community and information security.
+
+Thanks for stopping by! Feel free to connect with me.
+
 
