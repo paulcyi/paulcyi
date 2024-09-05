@@ -27,7 +27,7 @@ I am an aspiring Full Stack Developer with a passion for creating scalable and e
 
 - **Programming Languages**: JavaScript, Python, Java, Swift
 - **Frameworks & Libraries**: React, Node.js, Spring Boot
-- **Tools & Platforms**: Git, Docker, AWS, Jenkins
+- **Tools & Platforms**: Git, Docker, AWS, Jenkins, Vite
 - **Databases**: MySQL, MongoDB
 
 ## 🌱 Currently Learning
