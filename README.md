@@ -91,37 +91,28 @@ While I began my career in iOS development, I have transitioned to DevOps engine
 
 ## Projects
 
-Here are a few examples of the projects I'm currently working on:
+### 1. FastAPI DevOps Project
 
-### 1. Personal DevOps Dashboard
-
-![Dashboard Screenshot](./images/dashboard_screenshot.png)
-
-*Figure 1: Screenshot of the Personal DevOps Dashboard UI.*
-
-- **Overview:** Building a personal dashboard to monitor system metrics like CPU, memory, and disk usage.
-- **Technologies:** Docker, Prometheus, Grafana, FastAPI (Python), React.
+- **Overview:** Developed a FastAPI application secured with JWT authentication, containerized using Docker, and deployed using a CI/CD pipeline with GitHub Actions. Currently integrating Prometheus and Grafana for monitoring and preparing to deploy on AWS.
+- **Technologies:** FastAPI, Docker, GitHub Actions, Prometheus, Grafana, AWS.
 - **Highlights:**
-  - Containerized all components using Docker Compose for easy deployment.
-  - Implemented real-time monitoring with Prometheus and visualization with Grafana.
-  - Developed a React frontend to display metrics with a modern UI.
+  - **JWT Authentication:** Implemented secure API access.
+  - **Dockerization:** Used a multi-stage Docker build for efficiency and scalability.
+  - **CI/CD Pipeline:** Automated builds and deployments with GitHub Actions.
 
-**[View Repository](https://github.com/paulcyi/devops-dashboard)**
+**[View Repository](https://github.com/paulcyi/secure-healthcare-data-pipeline)**
 
-### 2. Portfolio Website
+### 2. VetHealth – iOS Medication Management App
 
-![Portfolio Screenshot](./images/portfolio_screenshot.png)
-
-*Figure 2: Homepage of my personal portfolio website.*
-
-- **Overview:** Creating a personal website to showcase my projects, skills, and blog posts.
-- **Technologies:** HTML, CSS, JavaScript, possibly using a static site generator like Hugo or Jekyll.
+- **Overview:** Developing an iOS app using HealthKit to track prescriptions and medication reminders for veterans.
+- **Technologies:** Swift, SwiftUI, HealthKit, Xcode.
 - **Highlights:**
-  - Responsive design for accessibility on all devices.
-  - Integrated blog section to share articles and updates on my DevOps journey.
-  - Deployed using GitHub Pages and connected to my custom domain.
+  - Integrated HealthKit for accessing health data.
+  - Designed an intuitive interface with SwiftUI for easy user interaction.
 
-**[Visit My Website](https://www.yourdomain.com)**
+**[View Repository](https://github.com/paulcyi/vethealth)**
+
+
 
 ## Contact Me
 
