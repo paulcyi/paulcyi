@@ -1,89 +1,161 @@
-# Hi, I'm Paul 👋
+# Paul Yi - DevOps Engineer
 
 ## About Me
-I'm a DevOps Engineer transitioning from military service, where I served with distinction as a Body Bearer in The Old Guard. My military experience instilled precision, discipline, and the ability to excel under pressure—qualities I now apply to building robust, secure cloud infrastructures and automating workflows.
-
-As part of my transition from the Army, I participated in the Hiring Our Heroes Corporate Fellowship through the Career Skills Program (DoD SkillBridge), which concluded in November 2024. During this fellowship at Booz Allen Hamilton, I gained hands-on experience with CI/CD pipelines, containerization, and cloud infrastructure, solidifying my passion for solving complex problems in automation, cloud architecture, and DevOps.
-
-Actively contributing to open-source projects while developing cloud automation tools, I bring a unique perspective to problem-solving and teamwork in technology.
-
-## Professional Journey
-Transitioning from precision military operations to DevOps engineering, I'm leveraging my experience in high-stakes environments to build reliable, secure cloud infrastructure. My approach combines military discipline with technical innovation, focusing on creating robust automation solutions and maintaining high standards in code quality and system reliability.
-
-## Technologies & Tools
-
-### Core DevOps & Cloud Skills
-![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Terraform Badge](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
- - **Infrastructure & Containerization**: Docker (multi-stage builds), AWS (EC2, S3, IAM), currently implementing Kubernetes, learning Infrastructure as Code with Terraform  
-- **CI/CD & Automation**: GitHub Actions, automated testing, Python scripting, version control with Git  
-- **Monitoring & Security**: Prometheus, Grafana, authentication and security best practices, cloud security  
-
-### Additional Technical Background
-![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-- Proficiency in FastAPI, React, and Swift for full-stack development.
+Transitioning DevOps Engineer with distinguished military service in The Old Guard, bringing precision, discipline, and excellence to cloud infrastructure and automation. Recent Hiring Our Heroes Corporate Fellowship graduate (Booz Allen Hamilton), with hands-on experience in CI/CD pipelines, containerization, and cloud infrastructure.
 
 ## Featured Projects
 
 ### CloudOps Automation Toolkit (Active Development)
 A comprehensive DevOps toolkit demonstrating practical skills in cloud infrastructure management and automation.
 
-**Key Features:**
-- System health monitoring with Prometheus integration
-- Automated log analysis and alerting
-- AWS S3 backup automation
-- Security compliance verification
-- Comprehensive test coverage
+#### Current Status & Progress
+- ✅ System Health Monitoring
+  - Implemented with Prometheus integration
+  - Comprehensive test coverage (100%)
+  - Real-time metrics collection
+- ✅ Log Analysis System
+  - Pattern recognition and alerting
+  - Structured logging implementation
+  - Integration test suite
+- 🚧 AWS Integration
+- 🚧 Security Compliance Features
 
-**Technologies:** Python, AWS SDK, Prometheus, Docker, GitHub Actions  
-[![Project Badge](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github)](https://github.com/paulcyi/cloudops-automation-toolkit)
+#### Core Features
+- 🔍 **System Health Monitoring**
+  - Real-time CPU, memory, and disk metrics
+  - Process monitoring and analysis
+  - Prometheus metrics integration
+  
+- 📊 **Log Analysis**
+  - Automated log collection and parsing
+  - Pattern recognition with alerting
+  - Log rotation and retention management
+  
+- 💾 **Backup Automation**
+  - AWS S3 integration (coming soon)
+  - Backup verification
+  - Restoration testing
+  
+- 🔒 **Security Compliance**
+  - Security status monitoring
+  - Compliance verification
+  - Configuration auditing
 
-### Secure Healthcare Data Pipeline
-A production-grade DevOps project showcasing modern practices in security, monitoring, and deployment.
+### Technology Stack
+- Python 3.11+
+- AWS SDK (boto3)
+- Prometheus Client
+- Docker
+- pytest for testing
+- Black for formatting
+- pylint for code quality
 
-**Key Features:**
-- JWT-based authentication system
-- Multi-stage Docker containerization
-- GitHub Actions CI/CD pipeline
-- Prometheus & Grafana monitoring
-- AWS cloud deployment
-- Healthcare-focused security measures
+## Installation & Setup
 
-**Technologies:** FastAPI, Docker, GitHub Actions, Prometheus, Grafana, AWS  
-[![Project Badge](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github)](https://github.com/paulcyi/secure-healthcare-data-pipeline)
+### Prerequisites
+- Python 3.11 or higher
+- Git
+- AWS account (for cloud features)
 
-## Current Focus
-🔭 **I'm currently working on:**
-- Building cloud infrastructure automation tools
-- Enhancing Kubernetes expertise and implementing container orchestration
-- Developing secure, compliant cloud architectures with monitoring solutions
-- Building portfolio projects that demonstrate practical DevOps solutions
+### Initial Setup
+1. Clone the repository
+```bash
+git clone https://github.com/paulcyi/cloudops-automation-toolkit.git
+cd cloudops-automation-toolkit
+```
 
-🌱 **I'm learning:**
-- Advanced AWS services and Terraform for Infrastructure as Code
-- CI/CD pipeline optimization
-- Cloud security best practices
+2. Create and activate virtual environment
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Unix/MacOS
+# or
+.\venv\Scripts\activate  # On Windows
+```
+
+3. Install required packages
+```bash
+python3 -m pip install -r requirements.txt
+```
+
+## Development
+
+### Development Standards
+
+#### Git Workflow
+- Main branch: Production-ready code
+- Develop branch: Integration branch
+- Feature branches: Format `feature/component-name`
+- Commits: Use conventional commits format
+
+Example commit:
+```
+feat(monitoring): implement system metrics collection
+
+- Add CPU, memory, and disk metrics
+- Configure Prometheus integration
+- Add unit tests
+```
+
+#### Testing
+- Write tests for all new features
+- Maintain >80% test coverage
+- Run full test suite before commits
+```bash
+pytest tests/ -v
+```
+
+#### Code Quality
+- Follow PEP 8 guidelines
+- Use type hints
+- Document all functions and classes
+- Use Black for formatting
+- Use pylint for code quality
+
+### Code Quality Tools
+```bash
+# Format code
+black .
+
+# Check code quality
+pylint src/
+```
+
+## Project Structure
+```
+cloudops-automation-toolkit/
+├── src/
+│   ├── monitors/
+│   │   └── system_monitor.py
+│   └── logs/
+│       └── log_analyzer.py
+├── tests/
+│   ├── monitors/
+│   │   └── test_system_monitor.py
+│   └── logs/
+│       └── test_log_analyzer.py
+├── pytest.ini
+└── README.md
+```
 
 ## Military Service Highlight
-**United States Army – The Old Guard (2021–2024)**  
-- Executed 650+ Military Funeral Honors with precision and attention to detail.  
-- Led 200+ Military Funeral Honors with Escort, showcasing leadership in high-visibility ceremonies.  
-- Participated in 6 General Officer funerals, coordinating with senior military leaders across branches.  
-- Recognized as a subject matter expert for joint service ceremonies and mentoring new personnel.  
-- **Recipient of the Army Commendation Medal (ARCOM)** for meritorious service.  
+**United States Army – The Old Guard (2021–2024)**
+- Executed 650+ Military Funeral Honors with precision and attention to detail
+- Led 200+ Military Funeral Honors with Escort
+- Conducted 6 General Officer funerals
+- Recognized as subject matter expert for joint service ceremonies
+- Recipient of the Army Commendation Medal (ARCOM)
 
-## Let's Connect!
-I'm actively seeking DevOps engineering opportunities and would love to connect with fellow professionals in the field.
+## Next Steps
+1. Implement AWS S3 integration
+2. Add security compliance features
+3. Set up CI/CD pipeline with GitHub Actions
+4. Add Docker containerization
+5. Create Kubernetes deployment configuration
 
-[![LinkedIn Badge](https://img.shields.io/badge/Paul%20Yi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulcyi)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yipaulc@gmail.com)
+## Author
+Paul Yi
+- GitHub: [@paulcyi](https://github.com/paulcyi)
+- LinkedIn: [Paul Yi](https://www.linkedin.com/in/paulcyi)
 
 ---
-*"Excellence is not a singular act, but a habit. You are what you repeatedly do." - Aristotle*
-
+*Building reliable, secure, and automated cloud infrastructure solutions.*
