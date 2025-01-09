@@ -1,161 +1,64 @@
-# Paul Yi - DevOps Engineer
+# Paul Yi
 
-## About Me
-Transitioning DevOps Engineer with distinguished military service in The Old Guard, bringing precision, discipline, and excellence to cloud infrastructure and automation. Recent Hiring Our Heroes Corporate Fellowship graduate (Booz Allen Hamilton), with hands-on experience in CI/CD pipelines, containerization, and cloud infrastructure.
+## DevOps Engineer | Former U.S. Army Body Bearer
 
-## Featured Projects
+I'm a DevOps engineer transitioning from distinguished military service, where I served in The Old Guard as a Body Bearer, performing over 850 ceremonies with precision and honor. Now, I'm bringing that same dedication and attention to detail to DevOps and cloud infrastructure.
 
-### CloudOps Automation Toolkit (Active Development)
-A comprehensive DevOps toolkit demonstrating practical skills in cloud infrastructure management and automation.
+### 🎖️ Military Background
 
-#### Current Status & Progress
-- ✅ System Health Monitoring
-  - Implemented with Prometheus integration
-  - Comprehensive test coverage (100%)
-  - Real-time metrics collection
-- ✅ Log Analysis System
-  - Pattern recognition and alerting
-  - Structured logging implementation
-  - Integration test suite
-- 🚧 AWS Integration
-- 🚧 Security Compliance Features
+- Served in The Old Guard (3d U.S. Infantry Regiment) from 2021-2024
+- Executed 650+ Military Funeral Honors and 200+ Military Funeral Honors with Escort
+- Subject matter expert for Joint Service Casket Team
+- Awarded Army Commendation Medal for exceptional service
 
-#### Core Features
-- 🔍 **System Health Monitoring**
-  - Real-time CPU, memory, and disk metrics
-  - Process monitoring and analysis
-  - Prometheus metrics integration
-  
-- 📊 **Log Analysis**
-  - Automated log collection and parsing
-  - Pattern recognition with alerting
-  - Log rotation and retention management
-  
-- 💾 **Backup Automation**
-  - AWS S3 integration (coming soon)
-  - Backup verification
-  - Restoration testing
-  
-- 🔒 **Security Compliance**
-  - Security status monitoring
-  - Compliance verification
-  - Configuration auditing
+### 💻 Technical Experience
 
-### Technology Stack
-- Python 3.11+
-- AWS SDK (boto3)
-- Prometheus Client
-- Docker
-- pytest for testing
-- Black for formatting
-- pylint for code quality
+- **DevOps**: CI/CD pipelines, Infrastructure as Code, automation
+- **Containers**: Docker, Kubernetes
+- **Cloud**: AWS services and architecture
+- **Infrastructure**: Linux systems administration, configuration management
+- **Programming**: Python, shell scripting
+- **Tools**: Git, Jenkins, Terraform
 
-## Installation & Setup
+### 🚀 Featured Projects
 
-### Prerequisites
-- Python 3.11 or higher
-- Git
-- AWS account (for cloud features)
+#### CloudOps Automation Toolkit
+A comprehensive system administration toolkit demonstrating practical DevOps automation capabilities:
+- System health monitoring and metrics collection
+- Log analysis and pattern recognition
+- Backup automation with AWS integration
+- Security compliance verification
+- Built with Python, AWS SDK, Prometheus client
 
-### Initial Setup
-1. Clone the repository
-```bash
-git clone https://github.com/paulcyi/cloudops-automation-toolkit.git
-cd cloudops-automation-toolkit
-```
+#### Secure Healthcare Data Pipeline
+A secure data processing pipeline focused on healthcare compliance:
+- Kubernetes deployment architecture
+- Infrastructure as Code with Terraform
+- GitOps workflow with ArgoCD
+- Comprehensive monitoring with Prometheus/Grafana
 
-2. Create and activate virtual environment
-```bash
-python3 -m venv venv
-source venv/bin/activate  # On Unix/MacOS
-# or
-.\venv\Scripts\activate  # On Windows
-```
+### 📚 Current Learning Focus
 
-3. Install required packages
-```bash
-python3 -m pip install -r requirements.txt
-```
+- Advanced Kubernetes Administration
+- AWS Solutions Architecture
+- Python Development
+- Infrastructure as Code
+- Cloud Security Best Practices
 
-## Development
+### 🌟 Core Strengths
 
-### Development Standards
+- Exceptional attention to detail from military precision training
+- Strong problem-solving abilities
+- Excellent team collaboration
+- Dedicated to continuous learning
+- Mission-focused mindset
 
-#### Git Workflow
-- Main branch: Production-ready code
-- Develop branch: Integration branch
-- Feature branches: Format `feature/component-name`
-- Commits: Use conventional commits format
+### 📫 Connect With Me
 
-Example commit:
-```
-feat(monitoring): implement system metrics collection
-
-- Add CPU, memory, and disk metrics
-- Configure Prometheus integration
-- Add unit tests
-```
-
-#### Testing
-- Write tests for all new features
-- Maintain >80% test coverage
-- Run full test suite before commits
-```bash
-pytest tests/ -v
-```
-
-#### Code Quality
-- Follow PEP 8 guidelines
-- Use type hints
-- Document all functions and classes
-- Use Black for formatting
-- Use pylint for code quality
-
-### Code Quality Tools
-```bash
-# Format code
-black .
-
-# Check code quality
-pylint src/
-```
-
-## Project Structure
-```
-cloudops-automation-toolkit/
-├── src/
-│   ├── monitors/
-│   │   └── system_monitor.py
-│   └── logs/
-│       └── log_analyzer.py
-├── tests/
-│   ├── monitors/
-│   │   └── test_system_monitor.py
-│   └── logs/
-│       └── test_log_analyzer.py
-├── pytest.ini
-└── README.md
-```
-
-## Military Service Highlight
-**United States Army – The Old Guard (2021–2024)**
-- Executed 650+ Military Funeral Honors with precision and attention to detail
-- Led 200+ Military Funeral Honors with Escort
-- Conducted 6 General Officer funerals
-- Recognized as subject matter expert for joint service ceremonies
-- Recipient of the Army Commendation Medal (ARCOM)
-
-## Next Steps
-1. Implement AWS S3 integration
-2. Add security compliance features
-3. Set up CI/CD pipeline with GitHub Actions
-4. Add Docker containerization
-5. Create Kubernetes deployment configuration
-
-## Author
-Paul Yi
-- GitHub: [@paulcyi](https://github.com/paulcyi)
-- LinkedIn: [Paul Yi](https://www.linkedin.com/in/paulcyi)
+- LinkedIn: [Paul Yi](https://linkedin.com/in/yourprofile)
+- Portfolio: [paulyi.dev](https://paulyi.dev)
+- Email: your.email@example.com
 
 ---
-*Building reliable, secure, and automated cloud infrastructure solutions.*
+
+*"Discipline is the bridge between goals and accomplishment." - Jim Rohn*
