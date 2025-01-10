@@ -2,63 +2,37 @@
 
 ## DevOps Engineer | Former U.S. Army Body Bearer
 
-I'm a DevOps engineer transitioning from distinguished military service, where I served in The Old Guard as a Body Bearer, performing over 850 ceremonies with precision and honor. Now, I'm bringing that same dedication and attention to detail to DevOps and cloud infrastructure.
+I'm a DevOps engineer transitioning from distinguished military service, where I served in The Old Guard as a Body Bearer, performing over 850 ceremonies with precision and honor. I bring the same dedication and attention to detail to DevOps and cloud infrastructure.
 
-### 🎖️ Military Background
+### Military Background
 
-- Served in The Old Guard (3d U.S. Infantry Regiment) from 2021-2024
-- Executed 650+ Military Funeral Honors and 200+ Military Funeral Honors with Escort
-- Subject matter expert for Joint Service Casket Team
-- Awarded Army Commendation Medal for exceptional service
+- **Service**: The Old Guard (3d U.S. Infantry Regiment) from 2021–2024
+- **Ceremonies Executed**: 650+ Military Funeral Honors and 200+ Military Funeral Honors with Escort
+- **Roles**: Subject Matter Expert and Trainer for new soldiers
 
-### 💻 Technical Experience
+### Technical Skills
 
-- **DevOps**: CI/CD pipelines, Infrastructure as Code, automation
-- **Containers**: Docker, Kubernetes
-- **Cloud**: AWS services and architecture
-- **Infrastructure**: Linux systems administration, configuration management
-- **Programming**: Python, shell scripting
-- **Tools**: Git, Jenkins, Terraform
+- **Languages**: Python, Swift, TypeScript
+- **Frameworks**: FastAPI, React, Next.js
+- **DevOps Tools**: Docker, GitHub Actions, Prometheus, Grafana
+- **Cloud Platforms**: AWS
 
-### 🚀 Featured Projects
+### Notable Projects
 
-#### CloudOps Automation Toolkit
-A comprehensive system administration toolkit demonstrating practical DevOps automation capabilities:
-- System health monitoring and metrics collection
-- Log analysis and pattern recognition
-- Backup automation with AWS integration
-- Security compliance verification
-- Built with Python, AWS SDK, Prometheus client
+- **Secure Healthcare Data Pipeline**  
+  A production-grade healthcare data pipeline demonstrating modern DevOps practices, security implementations, and cloud-native architecture. Built with FastAPI and designed for HIPAA compliance.  
+  [GitHub Repository](https://github.com/paulcyi/secure-healthcare-data-pipeline)
 
-#### Secure Healthcare Data Pipeline
-A secure data processing pipeline focused on healthcare compliance:
-- Kubernetes deployment architecture
-- Infrastructure as Code with Terraform
-- GitOps workflow with ArgoCD
-- Comprehensive monitoring with Prometheus/Grafana
+- **Personal Portfolio**  
+  A modern, minimalist portfolio site showcasing my journey and projects as a DevOps Engineer. Built with Next.js and Tailwind CSS, featuring a clean, dark theme aesthetic.  
+  [GitHub Repository](https://github.com/paulcyi/paulyi-dev)
 
-### 📚 Current Learning Focus
+- **Monitoring Project with Prometheus & Node Exporter**  
+  Demonstrates a cloud-based monitoring setup on an AWS EC2 instance using Prometheus and Node Exporter to track and visualize essential system metrics.  
+  [GitHub Repository](https://github.com/paulcyi/monitoring-project)
 
-- Advanced Kubernetes Administration
-- AWS Solutions Architecture
-- Python Development
-- Infrastructure as Code
-- Cloud Security Best Practices
+### Contact
 
-### 🌟 Core Strengths
-
-- Exceptional attention to detail from military precision training
-- Strong problem-solving abilities
-- Excellent team collaboration
-- Dedicated to continuous learning
-- Mission-focused mindset
-
-### 📫 Connect With Me
-
-- LinkedIn: [Paul Yi](https://linkedin.com/in/yourprofile)
-- Portfolio: [paulyi.dev](https://paulyi.dev)
-- Email: your.email@example.com
-
----
-
-*"Discipline is the bridge between goals and accomplishment." - Jim Rohn*
+- **Portfolio**: [paulyi.dev](https://paulyi.dev)
+- **LinkedIn**: [Paul Yi](https://www.linkedin.com/in/paulcyi)
+- **X (formerly Twitter)**: [@pyi_dev](https://x.com/pyi_dev)
