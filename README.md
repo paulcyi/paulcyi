@@ -1,38 +1,49 @@
-# Paul Yi
+Paul Yi
 
-## DevOps Engineer | Former U.S. Army Body Bearer
+DevOps Engineer | Former U.S. Army Body Bearer
 
-I'm a DevOps engineer transitioning from distinguished military service, where I served in The Old Guard as a Body Bearer, performing over 850 ceremonies with precision and honor. I bring the same dedication and attention to detail to DevOps and cloud infrastructure.
+I’m a dedicated DevOps engineer transitioning from an impactful military career in The Old Guard, where I served with precision, discipline, and honor. My experience as a Body Bearer—executing 850+ military ceremonies with unwavering attention to detail—shaped my ability to thrive under pressure and deliver excellence. Now, I apply the same rigor to building secure, scalable infrastructure and automating cloud-native systems.
 
-### Military Background
+🎖️ Military Background
+	•	Service: 3d U.S. Infantry Regiment (The Old Guard) | 2021–2024
+	•	Role: Trainer and Subject Matter Expert
+	•	Impact:
+	•	Executed 650+ Military Funeral Honors and 200+ Military Funeral Honors with Escort
+	•	Mentored and trained new soldiers on precision and discipline
 
-- **Service**: The Old Guard (3d U.S. Infantry Regiment) from 2021–2024
-- **Ceremonies Executed**: 650+ Military Funeral Honors and 200+ Military Funeral Honors with Escort
-- **Roles**: Subject Matter Expert and Trainer for new soldiers
+⚙️ Technical Skills
+	•	Programming: Python, Swift, TypeScript
+	•	Frameworks: FastAPI, React, Next.js
+	•	DevOps Tools: Docker, Kubernetes, Terraform, GitHub Actions, Prometheus, Grafana
+	•	Cloud Platforms: AWS (EC2, S3, IAM, CloudFormation)
 
-### Technical Skills
+🚀 Notable Projects
 
-- **Languages**: Python, Swift, TypeScript
-- **Frameworks**: FastAPI, React, Next.js
-- **DevOps Tools**: Docker, GitHub Actions, Prometheus, Grafana
-- **Cloud Platforms**: AWS
+1. Secure Healthcare Data Pipeline
 
-### Notable Projects
+Production-grade pipeline showcasing modern DevOps practices, security-first architecture, and compliance with HIPAA standards.
+	•	Tech Stack: FastAPI, Docker, AWS (EC2, S3, IAM)
+	•	Key Features: Secure data ingestion and processing pipeline with automated deployments.
 
-- **Secure Healthcare Data Pipeline**  
-  A production-grade healthcare data pipeline demonstrating modern DevOps practices, security implementations, and cloud-native architecture. Built with FastAPI and designed for HIPAA compliance.  
-  [GitHub Repository](https://github.com/paulcyi/secure-healthcare-data-pipeline)
+2. Monitoring System with Prometheus & Node Exporter
 
-- **Personal Portfolio**  
-  A modern, minimalist portfolio site showcasing my journey and projects as a DevOps Engineer. Built with Next.js and Tailwind CSS, featuring a clean, dark theme aesthetic.  
-  [GitHub Repository](https://github.com/paulcyi/paulyi-dev)
+Cloud-based monitoring solution on AWS, tracking essential system metrics in real-time.
+	•	Tech Stack: Prometheus, Grafana, AWS EC2
+	•	Key Features: Dashboards visualizing CPU, memory, and disk usage; robust alerting system.
 
-- **Monitoring Project with Prometheus & Node Exporter**  
-  Demonstrates a cloud-based monitoring setup on an AWS EC2 instance using Prometheus and Node Exporter to track and visualize essential system metrics.  
-  [GitHub Repository](https://github.com/paulcyi/monitoring-project)
+3. Personal Portfolio
 
-### Contact
+Minimalist, responsive portfolio site showcasing my DevOps journey and projects.
+	•	Tech Stack: Next.js, Tailwind CSS
+	•	Key Features: Dark theme aesthetic, clean navigation, and project highlights.
 
-- **Portfolio**: [paulyi.dev](https://paulyi.dev)
-- **LinkedIn**: [Paul Yi](https://www.linkedin.com/in/paulcyi)
-- **X (formerly Twitter)**: [@pyi_dev](https://x.com/pyi_dev)
+🌟 Why Me?
+
+My military background instilled unmatched discipline, teamwork, and leadership skills. I bring these qualities to the tech world, focusing on delivering secure, reliable, and scalable infrastructure. I’m passionate about cloud security, automation, and solving complex technical challenges.
+
+📬 Contact
+	•	Portfolio: paulyi.dev
+	•	LinkedIn: Paul Yi
+	•	GitHub: @paulcyi
+	•	Twitter: @pyi_dev
+
