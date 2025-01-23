@@ -1,49 +1,47 @@
-Paul Yi
+# Paul Yi
+DevSecOps Engineer | Former U.S. Army Body Bearer | Secret Clearance
 
-DevOps Engineer | Former U.S. Army Body Bearer
+I'm a DevSecOps engineer specializing in secure pipeline development and cloud infrastructure automation. My military background in The Old Guard instilled exceptional attention to detail and leadership skills that I now apply to implementing robust security controls and maintaining compliant systems.
 
-I’m a dedicated DevOps engineer transitioning from an impactful military career in The Old Guard, where I served with precision, discipline, and honor. My experience as a Body Bearer—executing 850+ military ceremonies with unwavering attention to detail—shaped my ability to thrive under pressure and deliver excellence. Now, I apply the same rigor to building secure, scalable infrastructure and automating cloud-native systems.
+🔒 **Core Competencies**
+- **Security**: CI/CD security controls, HIPAA compliance, JWT authentication
+- **Infrastructure**: Docker, Kubernetes, Terraform, AWS (EC2, S3, IAM)
+- **Automation**: GitHub Actions pipelines, Python scripting, infrastructure as code
+- **Monitoring**: Prometheus, Grafana, custom metrics collection
+- **Development**: Python, FastAPI, React
 
-🎖️ Military Background
-	•	Service: 3d U.S. Infantry Regiment (The Old Guard) | 2021–2024
-	•	Role: Trainer and Subject Matter Expert
-	•	Impact:
-	•	Executed 650+ Military Funeral Honors and 200+ Military Funeral Honors with Escort
-	•	Mentored and trained new soldiers on precision and discipline
+🛠️ **Featured Projects**
 
-⚙️ Technical Skills
-	•	Programming: Python, Swift, TypeScript
-	•	Frameworks: FastAPI, React, Next.js
-	•	DevOps Tools: Docker, Kubernetes, Terraform, GitHub Actions, Prometheus, Grafana
-	•	Cloud Platforms: AWS (EC2, S3, IAM, CloudFormation)
+**Secure Healthcare Data Pipeline**
+Production-grade project demonstrating security-first DevSecOps practices
+- Implemented JWT authentication and HIPAA-compliant data handling
+- Built automated CI/CD pipeline with GitHub Actions
+- Containerized deployment with Docker and AWS integration
+- Real-time monitoring using Prometheus/Grafana
 
-🚀 Notable Projects
+**CloudOps Automation Toolkit**
+System monitoring and infrastructure management suite
+- Automated backup system with AWS S3 integration
+- Security compliance verification tools
+- Prometheus metrics integration
+- Comprehensive logging and analysis system
 
-1. Secure Healthcare Data Pipeline
+🎖️ **Military Experience** (2021-2024)
+- Led and trained teams in high-stakes operations requiring perfect execution
+- Executed 850+ ceremonies with zero errors
+- Secret clearance active through 2029
+- Army Commendation Medal recipient for exceptional service
 
-Production-grade pipeline showcasing modern DevOps practices, security-first architecture, and compliance with HIPAA standards.
-	•	Tech Stack: FastAPI, Docker, AWS (EC2, S3, IAM)
-	•	Key Features: Secure data ingestion and processing pipeline with automated deployments.
+💼 **Recent Experience**
+- DevOps Engineer Fellow, Booz Allen Hamilton (2024)
+  - Enterprise platform modernization
+  - Azure cloud services implementation
+  - Shift-left security practices
 
-2. Monitoring System with Prometheus & Node Exporter
+🌟 **Why DevSecOps?**
+I combine military precision with technical expertise to build secure, scalable infrastructure. My focus is on automating security controls, maintaining compliance, and implementing robust CI/CD pipelines.
 
-Cloud-based monitoring solution on AWS, tracking essential system metrics in real-time.
-	•	Tech Stack: Prometheus, Grafana, AWS EC2
-	•	Key Features: Dashboards visualizing CPU, memory, and disk usage; robust alerting system.
-
-3. Personal Portfolio
-
-Minimalist, responsive portfolio site showcasing my DevOps journey and projects.
-	•	Tech Stack: Next.js, Tailwind CSS
-	•	Key Features: Dark theme aesthetic, clean navigation, and project highlights.
-
-🌟 Why Me?
-
-My military background instilled unmatched discipline, teamwork, and leadership skills. I bring these qualities to the tech world, focusing on delivering secure, reliable, and scalable infrastructure. I’m passionate about cloud security, automation, and solving complex technical challenges.
-
-📬 Contact
-	•	Portfolio: paulyi.dev
-	•	LinkedIn: Paul Yi
-	•	GitHub: @paulcyi
-	•	Twitter: @pyi_dev
-
+📫 **Contact**
+- Portfolio: [paulyi.dev](https://paulyi.dev)
+- LinkedIn: [Paul Yi](https://linkedin.com/in/paulcyi)
+- Email: yipaulc@gmail.com
