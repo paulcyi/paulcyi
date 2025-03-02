@@ -3,7 +3,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulcyi)
-[![X](https://github.com/paulcyi/aws-devops-demo/raw/main/x-logo.png)](https://x.com/pyi_dev)
+[![X](https://github.com/paulcyi/raw/main/x-logo.png)](https://x.com/pyi_dev)
 
 <img src="https://github-readme-stats.vercel.app/api?username=paulcyi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
@@ -87,7 +87,7 @@ My flagship project, the [AWS DevOps Demo](https://github.com/paulcyi/aws-devops
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulcyi)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pyi_dev)
+[![X](https://github.com/paulcyi/raw/main/x-logo.png)](https://x.com/pyi_dev)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yipaulc@gmail.com)
   
 </div>
