@@ -34,7 +34,7 @@ My flagship project, the [AWS DevOps Demo](https://github.com/paulcyi/aws-devops
 - **CI/CD Pipeline**: Automated builds and deployments with GitHub Actions.
 - **Containerization**: Dockerized Python Flask app.
 - **Infrastructure as Code**: Terraform-managed AWS infrastructure.
-- **Monitoring**: CloudWatch logs and auto scaling with SNS alerts.
+- **Monitoring**: CloudWatch logs, auto scaling with SNS alerts (verified March 03, 2025).
 
 [View Live Counter](http://devops-demo-alb-426352306.us-east-1.elb.amazonaws.com/)  
 *(Note: Update URL if your ALB DNS changes.)*
